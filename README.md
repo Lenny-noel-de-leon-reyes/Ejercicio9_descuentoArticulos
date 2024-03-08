@@ -18,17 +18,17 @@ Vista Inicial:
 ![Ejercicio9_Vista_Inicial](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio9_descuentoArticulos/assets/158470011/66986d0f-42a2-4832-959a-c89c3e756c95)
 
 
-Escala numero 1:
+Momento en el cual se ingresan los datos y se presiona el Boton "Calcular" (Escala numero 1) :
 
 ![Ejercicio9_no_aplica](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio9_descuentoArticulos/assets/158470011/d473fe9e-3438-4fb9-ad2d-84377804afb7)
 
-
-Escala numero 2:
+Momento en el cual se ingresan los datos y se presiona el Boton "Escala numero 2":
 
 ![Ejercicio9_2](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio9_descuentoArticulos/assets/158470011/6b3faede-ee12-4f64-b5f4-f41f42562580)
 
 
-Limpieza de Datos:
+
+Limpieza de datos con el botón "Limpiar"
 
 ![Ejercicio9_3](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio9_descuentoArticulos/assets/158470011/0824754a-b432-4b5c-a4e9-3edf497547c4)
 
@@ -41,6 +41,5 @@ Escala numero 4:
   ![Ejercicio9_caso3](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio9_descuentoArticulos/assets/158470011/63157b17-4fe2-4e45-b8bd-eed3bd048779)
 
 
-
-
+Al presionar el boton "Cerrar" se cierra el programa
 
